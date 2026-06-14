@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=C8FF00&width=435&lines=Frontend+Developer;JavaScript+%7C+HTML+%7C+CSS;React+is+going+on"
 alt="Typing SVG" />
 
-
 ---
 
 ## 🚀 About Me
