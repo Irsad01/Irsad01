@@ -7,6 +7,18 @@ alt="Typing SVG" />
 
 ## 🚀 About Me
 
+
+
+I'm a **frontend-focused developer** who obsesses over the gap between *"works"* and *"feels right."*
+
+I've spent years sharpening my craft across React, JavaScript, and the full Adobe creative suite — because I believe building for the web is both an **engineering discipline** and a **design art**.
+
+My work spans high-performance SPAs, real-time collaborative systems, and motion-rich interfaces that make users pause and notice. I'm drawn to the hard problems: rendering pipelines, state at scale, sub-50ms interactions, and the architecture decisions that make a codebase **joyful to return to**.
+
+Beyond the browser, I compose visuals in Photoshop, After Effects, Illustrator, and Premiere — a creative toolkit that informs how I think about **hierarchy, rhythm, and storytelling** in every UI I ship.
+
+---
+
 Frontend-focused Developer passionate about building:
 
 - ⚡ High-performance web applications
