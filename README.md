@@ -11,7 +11,7 @@ alt="Typing SVG" />
 
 I'm a **frontend-focused developer** who obsesses over the gap between *"works"* and *"feels right."*
 
-I've spent years sharpening my craft across React, JavaScript, and the full Adobe creative suite — because I believe building for the web is both an **engineering discipline** and a **design art**.
+I've spent years sharpening my craft across JavaScript, and the full Adobe creative suite — because I believe building for the web is both an **engineering discipline** and a **design art**.
 
 My work spans high-performance SPAs, real-time collaborative systems, and motion-rich interfaces that make users pause and notice. I'm drawn to the hard problems: rendering pipelines, state at scale, sub-50ms interactions, and the architecture decisions that make a codebase **joyful to return to**.
 
